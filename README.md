@@ -7,14 +7,5 @@ Flutterwave post on Twitter: https://twitter.com/charlesnwahiwe/status/116510929
 
 
 CSS Styles were added
-h1 { color: white; background-color: purple; text-align: center; }
-		h3 { color: purple; 		}
-			
-		#skills-list {color: brown; }
-		#main-heading-details { text-align: center; }
-		#location { text-align: center;}
-			
-		p {font-family: "Helvetica", sans-serif; }
-		
-		div.box {text-align: center;}
+Contact Form was created		
 		
